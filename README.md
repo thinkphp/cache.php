@@ -7,7 +7,7 @@ How to use
 example 1
 
      #PHP 
-     require_once('easy.cache.php');
+     require_once('easy.cache.class.php');
      $url = "http://api.twitter.com/1/users/lookup.json?screen_name=thinkphp&include_entities=true";
      $cache = new EasyCache(5);//cache for 5 hours
      $resp = $cache->getData('twitterchart',$url);
@@ -18,7 +18,7 @@ example 2
 
      #PHP
      //require once the class cache
-     require_once('easy.cache.php');
+     require_once('easy.cache.class.php');
      //set up endpoint API YQL
      $endpoint = "http://query.yahooapis.com/v1/public/yql?q="; 
      //configure YQL statement
