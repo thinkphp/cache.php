@@ -6,7 +6,7 @@
  * Copyright (c) 2012, Adrian Statescu @thinkphp
  */
 
-require_once('easy.cache.class..php');
+require_once('easy.cache.class.php');
 
 $user = $_GET['user'];
 
