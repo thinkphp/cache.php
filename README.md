@@ -47,4 +47,9 @@ example 2
      }
      $cache = new EasyCache(10);//cache for 10 hours
      echo $cache->getData('forge',$url,"doit");
-   
+
+You can view in action:
+
+      demo#1 http://thinkphp.ro/apps/php-hacks/cache.php/forge.php   
+      demo#2 http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php
+      demo#3 http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools
