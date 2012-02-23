@@ -50,6 +50,8 @@ example 2
 
 You can view in action:
 
-      demo#1 http://thinkphp.ro/apps/php-hacks/cache.php/forge.php   
-      demo#2 http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php
-      demo#3 http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools
+      http://thinkphp.ro/apps/php-hacks/cache.php/forge.php   
+
+      http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php
+
+      http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools
