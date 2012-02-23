@@ -49,7 +49,6 @@ example 2
      echo $cache->getData('forge',$url,"doit");
 
 You can view in action:
-
-    [http://thinkphp.ro/apps/php-hacks/cache.php/forge.php](http://thinkphp.ro/apps/php-hacks/cache.php/forge.php)
-    [http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php](http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php)
-    [http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools](http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools)
+[http://thinkphp.ro/apps/php-hacks/cache.php/forge.php](http://thinkphp.ro/apps/php-hacks/cache.php/forge.php)
+[http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php](http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php)
+[http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools](http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools)
