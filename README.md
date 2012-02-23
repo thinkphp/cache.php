@@ -48,8 +48,8 @@ example 2
      $cache = new EasyCache(10);//cache for 10 hours
      echo $cache->getData('forge',$url,"doit");
 
-You can view in action:
+##You can view in action:
 
-[http://thinkphp.ro/apps/php-hacks/cache.php/forge.php](http://thinkphp.ro/apps/php-hacks/cache.php/forge.php)
-[http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php](http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php)
-[http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools](http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools)
+ [http://thinkphp.ro/apps/php-hacks/cache.php/forge.php](http://thinkphp.ro/apps/php-hacks/cache.php/forge.php)
+ [http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php](http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php)
+ [http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools](http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools)
