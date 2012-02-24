@@ -54,4 +54,4 @@ example 2
 
  [http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php](http://thinkphp.ro/apps/php-hacks/cache.php/twittertimeline.php)
 
- [http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools](http://localhost/php-hacks/cache.php/twitterchart.php?user=mootools)
+ [http://thinkphp.ro/apps/php-hacks/cache.php/twitterchart.php?user=mootools](http://thinkphp.ro/apps/php-hacks/cache.php/twitterchart.php?user=mootools)
